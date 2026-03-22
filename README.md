@@ -40,7 +40,4 @@ Backend ↔ External APIs
 
 ## 👥 Contributors
 - Ashutosh Rathour
-- others:
--   Ananya Rajput
-    ,charanjeet singh saini
-    ,aditi negi
+- others: Ananya Rajput ,charanjeet singh saini,aditi negi
