@@ -8,9 +8,10 @@ UniLink is a collaborative platform designed to connect users and manage teams e
 ##  System Architecture
 
 The project follows a 3-layer architecture:
+Controller layer --> Model layer --> Service layer
 
 ### 1. Frontend (User Interface)
-- Built using HTML5, CSS, or Vaadin
+- Built using Vaadin
 - Responsible for user interaction
 
 ### 2. Backend (Application Layer)
@@ -22,7 +23,7 @@ The project follows a 3-layer architecture:
 
 ### 3. Database Layer
 - Uses Relational Database:
-  - MySQL / PostgreSQL
+   PostgreSQL
 - Stores user and team data
 
 ### 4. External APIs
@@ -39,5 +40,5 @@ Backend ↔ External APIs
 ---
 
 ## 👥 Contributors
-- Ashutosh Rathour
-- others: Ananya Rajput ,charanjeet singh saini,aditi negi
+- 
+- Ananya Rajput ,charanjeet singh saini,Ashutosh Rathour ,aditi negi
