@@ -1,7 +1,7 @@
 # UniLink
 
 ##  Project Overview
-UniLink is a collaborative platform designed to connect users and manage teams efficiently.
+UniLink is a collaborative platform designed to connect users and manage teams efficiently..
 
 ---
 
